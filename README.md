@@ -1,13 +1,16 @@
 # MavenAndGradle
-1 - Java
+# - Java
+
 javac HelloWorld.java
 java HelloWorld
 
-2 - Maven
+# - Maven
+
 mvnw package
 cd target
 
 
-3 - Gradle
+# - Gradle
+
 gradlew build
 cd build
