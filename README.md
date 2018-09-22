@@ -2,15 +2,13 @@
 # - Java
 
 javac HelloWorld.java
+
 java HelloWorld
 
 # - Maven
 
-mvnw package
-cd target
-
+mvnw spring-boot:run
 
 # - Gradle
 
-gradlew build
-cd build
+gradlew runBoot
